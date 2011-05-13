@@ -1,0 +1,7 @@
+Sometimes you need to draw simple lines in OpenGL or simple 2d aplications (http://en.wikipedia.org/wiki/Hangman_%28game%29)
+and still prefering OpenGL api instead of the one created by google 
+I needded such api for the school lab (eg drawing simple stuff for games with opengl but on android/desktop)
+So i found it http://www.saturn.dti.ne.jp/~npaka/android/Graphics2DEx/index.html 
+
+
+
